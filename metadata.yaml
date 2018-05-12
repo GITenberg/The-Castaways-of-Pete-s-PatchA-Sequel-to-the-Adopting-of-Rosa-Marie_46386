@@ -1,0 +1,42 @@
+_repo: The-Castaways-of-Pete-s-PatchA-Sequel-to-the-Adopting-of-Rosa-Marie_46386
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Williamson, Ada Clendenin
+    aliases:
+    - Williamson, Ada C.
+    - Williamson, A. C. (Ada Clendenin)
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '38124'
+    url: http://www.gutenberg.org/2009/agents/38124
+  - agent_name: Selss, Miriam
+    gutenberg_agent_id: '43595'
+    url: http://www.gutenberg.org/2009/agents/43595
+covers:
+- cover_type: archival
+  image_path: 46386-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rankin, Carroll Watson
+    birthdate: 1870
+    gutenberg_agent_id: '38085'
+    url: http://www.gutenberg.org/2009/agents/38085
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Superior, Lake -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+title: "The Castaways of Pete's Patch\r\n(A Sequel to The Adopting of Rosa Marie)"
+url: http://www.gutenberg.org/ebooks/46386
