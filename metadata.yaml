@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '38085'
     url: http://www.gutenberg.org/2009/agents/38085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46386#The-Castaways-of-Pete-s-PatchA-Sequel-to-the-Adopting-of-Rosa-Marie
 gutenberg_issued: '2014-07-24'
 gutenberg_type: Text
 identifiers:
